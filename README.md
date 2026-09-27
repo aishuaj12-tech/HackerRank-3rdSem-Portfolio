@@ -2,7 +2,7 @@
 
 ## HackerRank Profile
 
-HackerRank Profile: PASTE YOUR HACKERRANK PROFILE LINK HERE
+HackerRank Profile: https://www.hackerrank.com/profile/aishuaj2116
 
 ## Problems Solved
 
@@ -36,4 +36,4 @@ All five required HackerRank problems were successfully submitted and accepted.
 
 ## HackerRank Badge
 
-HackerRank Profile/Badge: https://www.hackerrank.com/profile/aishuaj2116
+3-Star HackerRank Badge acheived
